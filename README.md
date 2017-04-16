@@ -1,5 +1,5 @@
 # hello-world
-Hey there it's Marcus. I've been heavily enamored with computers since about the age of 7 and have finally decided to the nose dive
+Hey there it's Marcus. I've been heavily enamored with computers since about the age of 7 and have finally decided to take the nose dive
 of learning code I started myself off heavily with java code and have recently discovered what a full stack developer is.
 I'm in the process of branching out from writing the middle java code and am teaching myself sql as well as javascript and html.
 Hopefully throughout this process I can learn many things and acheive my long term job of landing a job in the industry.
